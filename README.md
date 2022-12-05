@@ -1,4 +1,4 @@
-# Deluxe-Hosts-Tool
+# Deluxe Hosts Tool
 Deluxe Hosts Tool which is a simple tool that is able to combine multiple host files while removing any duplicate hosts
 
 IMPORTANT! THIS IS AN UNRELEASED TOOL AND COMES WITH NO WARRANTIES OR GURANTEES HENCE YOU THE USER ARE FULLY RESPONSIBLE FOR ANY OUTCOMES FROM USING THIS TOOL!
